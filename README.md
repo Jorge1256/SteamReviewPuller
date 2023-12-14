@@ -1,6 +1,6 @@
 HOW TO USE:
 
-This script runs utilizes the steamreviews module to pull reviews for multiple games via the steam api, parse the JSON data, then move them to excel. For each game a new sheet is created in the excel sheet. 
+This script runs utilizes the steamreviews module to pull Steam reviews for multiple games via the steam api, parse the JSON data, then move them to excel. For each game a new sheet is created in the excel sheet. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 There's a few things with this script that need to be adjusted to a particular usecase:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
